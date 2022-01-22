@@ -24,7 +24,7 @@ body{
     box-shadow:0px 0px 4px rgb(199, 2, 2),0px 0px 4px rgb(199, 2, 2);
 }
 #webback{
-    background: url("G:/Hclick/web2022/img/background/3.jpg") no-repeat center center fixed; 
+    background: url("img/background/3.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
