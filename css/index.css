@@ -1,7 +1,6 @@
 body{
     
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
 }
 #hlogo{
     font-family:fantasy;
@@ -25,7 +24,7 @@ body{
     box-shadow:0px 0px 4px rgb(199, 2, 2),0px 0px 4px rgb(199, 2, 2);
 }
 #webback{
-    background: url("https://www.nsbpictures.com/wp-content/uploads/2020/04/sunset-hd-background-photos-12-scaled.jpg") no-repeat center center fixed; 
+    background: url("https://static-cse.canva.com/blob/572643/2.Freephotos.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -33,5 +32,22 @@ body{
 }
 /*#darkweb{
     color:white;
+}*/
+
+/*-------------------------------------------------------------------------------*/
+
+audio{
+  width: 100%;
+  border:5px solid rgb(169, 236, 227);
+              border-radius: 50px
 }
-*/
+audio::-webkit-media-controls-panel {
+  background-color: #56c9ff;
+}
+audio::-webkit-media-controls-play-button {
+  background-color: #0051ff;
+  border-radius: 200%;
+}
+audio::-webkit-media-controls-play-button:hover {
+  background-color: rgba(238, 10, 10, 0.7);
+}
